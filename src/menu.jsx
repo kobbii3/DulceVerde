@@ -442,7 +442,7 @@ function Menu() {
           </div>
           
           <h1 style={styles.title}>
-            Dulces Naturales
+            Dulce Verde
           </h1>
           
           <p style={styles.subtitle}>
